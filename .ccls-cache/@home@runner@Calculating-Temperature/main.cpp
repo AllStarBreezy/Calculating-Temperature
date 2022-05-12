@@ -63,7 +63,7 @@ cout << "Selection: ";
     cout << ToTemp << ": " << answer;
 
     /*
-    Fahrenheit (°C × 9/5) + 32 = 212°F
+    Fahrenheit °F = (°C × 9/5) + 32 
     Centigrade °C = (°F - 32) / 1.8
     Rankine °R = °F + 459.7
     Kelvin °K = °C + 273.2
