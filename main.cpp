@@ -8,14 +8,6 @@ string curTemp = "";
 int infoSelect = -1;
 float answer = 0;
 int ToTempNum = 0;
-/*
-char F,C,K,R;
-bool Fselect = false;
-bool Cselect = false;
-bool Kselect = false;
-bool Rselect = false;
-int Fnum,Cnum,Knum,Rnum;
-*/
 cout << "Choose What Temperature you want to convert to\n";
 cout << "0 --> Fahrenheit\n";
 cout << "1 --> Celsius\n";
